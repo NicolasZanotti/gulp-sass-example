@@ -1,0 +1,9 @@
+# Dotfiles
+.*
+!.gitignore
+
+# Package Managers
+node_modules/
+
+# Compiled files
+dist/

@@ -1,2 +1,5 @@
-# gulp-sass-example
-Example Gulp build task using Dart Sass
+# Gulp with Sass Example
+
+Example Gulp build task using Dart Sass.
+
+Run `npm install` and `npm run build`.

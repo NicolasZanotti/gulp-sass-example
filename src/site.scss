@@ -1,0 +1,7 @@
+$color: "blue" !default;
+
+body {
+	background-color: #{$color};
+}
+
+@import "src/button";
