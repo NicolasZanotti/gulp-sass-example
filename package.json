@@ -7,6 +7,11 @@
   },
   "author": "Nicolas Zanotti",
   "license": "MIT",
+  "homepage": "https://github.com/NicolasZanotti/gulp-sass-example",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NicolasZanotti/gulp-sass-example.git"
+  },
   "dependencies": {},
   "devDependencies": {
     "del": "^3.0.0",
